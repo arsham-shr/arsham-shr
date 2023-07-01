@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @arsham-shr
 - 👀 I’m interested in Computer engineering
-- 🌱 I’m currently learning Web Design - Website
-- 📫 How to reach me IG : arsham_shr
+- 🌱 I’m currently learning Python - Linux
+- 📫 How to reach me IG : arsham_.shr
 
 <!---
 arsham-shr/arsham-shr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
